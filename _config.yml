@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Украинский язык в мыслях и ощущениях русскоязычной меня. 
 baseurl: "/kvasolya" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: kate_gunicky
 github_username: kate.gunicky
 
 # Build settings
