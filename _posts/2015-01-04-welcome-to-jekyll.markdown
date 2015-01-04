@@ -1,25 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Я начинаю"
 date:   2015-01-04 23:21:00
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Когда-нибудь это обязательно кончится, но пока что это только начинается.
+Я в Киеве. Я счастлива, хотя ещё в аэропорту стало ясно - план разбогатеть
+преподавая тут русский - этот план провалился. Киев - русскоязычный город.
+Русскоязычный до такой степени, что лично мне с этим пока очень сложно свыкнуться.
 
-Jekyll also offers powerful support for code snippets:
+Нет, не так всё-таки. Киев - город украинских вывесок и людей, договорившихся,
+что украинский - язык главный, язык государственный но к задаче полного перехода на этот государственный
+язык относящихся очень деликатно. Я бы сказал - без насилия, и в первую очередь, без насилия над собой.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Я хочу быть частью этого процесса. Я хочу путаться украинском лексиконе,
+впитывать местные языковые особенности, перестроить себя под новый язык.
+Постепенно. Плавно. Без забвения родного мне русского.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Я хочу говорить - на остановцi, и чтобы кияне поправляли меня вежливо - на зупинцi.
+Я хочу путать ударения в словах вроже "мешканцiв". Я хочу, чтобы меня
+не оставило та радость узнавания славянизмов и полонизмов - всех этих "в нозi",
+"нема є сенсу" и "манндрватимо". Я хочу понять, почему иногда во множественном
+числе - "и", а иногда - "i".
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Иными словами, я хочу говорить по-украински.
+
+
+А ещё я буду вставлять украинские слова. Всё чаще и чаще.
+Пока этот блог не станет украиноязычным. Но это будет ешё не скоро.
+Обережно, дверi зачиняются. Наступна станция двумовность. Или як там. 

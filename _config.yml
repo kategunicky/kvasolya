@@ -3,7 +3,7 @@ title: Квасоля, сяйво и много других прекрасны�
 email: kate.gunicky@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Украинский язык в мыслях и ощущениях русскоязычной меня. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/kvasolya" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: kate.gunicky
